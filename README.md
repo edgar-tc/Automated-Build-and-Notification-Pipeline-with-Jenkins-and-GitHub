@@ -1,0 +1,2 @@
+# Automated-Build-and-Notification-Pipeline-with-Jenkins-and-GitHub
+This project demonstrates the integration of Jenkins and GitHub to create an automated build and notification system. By leveraging GitHub webhooks, this setup ensures that any commit made to the repository triggers an automatic build process in Jenkins, streamlining the development workflow and enhancing continuous integration practices.
